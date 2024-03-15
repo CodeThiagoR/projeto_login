@@ -8,13 +8,13 @@
     }
 
     section#login {
-        width: 90vw;
+        width: 80vw;
     }
 
     section#login > div#imagem {
         float: left;
         width: 30%;
-        height: 70%;
+        height: 100%;
     }
 
     section#login > div#form {
@@ -30,17 +30,17 @@
     }
 
     section#login {
-        width: 990px;
+        width: 950px;
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%
     }
 
     section#login > div#form {
-        float: right;
+        float: left;
         height: 50%;
     }
 }
